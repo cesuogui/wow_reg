@@ -1,2 +1,2 @@
-# wow_reg
-worldserver配合使用的创建账号工具
+# WorldServer注册工具
+在使用本工具之前您需要一个编译好的worldserver.exe，通过该程序启动worldserver本工具会创建一个HTTP服务器用于创建游戏账号
